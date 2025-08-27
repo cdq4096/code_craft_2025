@@ -3,7 +3,6 @@
 #include <cstdio>
 #include <cassert>
 #include <cstdlib>
-using namespace std;
 #include <iostream>
 #include <vector>
 #include <math.h>
@@ -12,6 +11,9 @@ using namespace std;
 #include <unordered_set>
 #include <sstream>
 #include "light_set.h"
+
+using namespace std;
+
 #define MAX_DISK_NUM (10 + 1) // 最大磁盘数，题目中N≤10，+1避免越界
 #define MAX_DISK_SIZE (16384 + 1) // 每个磁盘最大存储单元数，题目中V≤16384
 #define MAX_REQUEST_NUM (30000000 + 1) // 最大请求数
