@@ -117,8 +117,6 @@
 
 <img src="pic/pic16.png" alt="pic16" style="zoom:50%;" />
 
-<img src="pic/pic16-1756296000202.png" alt="pic16" style="zoom:50%;" />
-
 
 
  
